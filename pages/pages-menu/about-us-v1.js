@@ -57,7 +57,7 @@ const AboutUsV1 = () => {
                   passionate tech enthusiasts came together with a shared vision
                    to empower businesses in the digital age. Since then, we
                   have been on a relentless journey to turn that vision into
-                  reality. Over the years, we've honed our skills, embraced
+                  reality. Over the years, we have honed our skills, embraced
                   emerging technologies, and cultivated a team of experts who
                   excel in their respective fields.
                 </p>
@@ -103,15 +103,18 @@ const AboutUsV1 = () => {
         </div>
         {/* /.container */}
 
-        <img
+        <Image
           src="/images/shape/shape_171.svg"
           alt="shape"
           className="lazy-img shapes shape-one"
+          width={50}
+          
         />
-        <img
+        <Image
           src="/images/shape/shape_172.svg"
           alt="shape"
           className="lazy-img shapes shape-two"
+          width={50}
         />
       </div>
       {/* /.fancy-feature-fiftyOne */}
