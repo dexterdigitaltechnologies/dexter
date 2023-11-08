@@ -111,21 +111,6 @@ const AboutUsV1 = () => {
           width={50}
         />
       </div>
-      {/* /.fancy-feature-fiftyOne */}
-
-      {/* <!-- 
-			=============================================
-				Feature Section Fifty Two
-			============================================== 
-			--> */}
-  
-      {/* <!-- /.fancy-feature-fiftyTwo --> */}
-
-      {/* 
-			=============================================
-				Feature Section Thirty Seven
-			============================================== 
-			*/}
       <div className="fancy-feature-thirtySeven mt-225 lg-mt-120">
         <div className="container">
           <div className="row align-items-center">
