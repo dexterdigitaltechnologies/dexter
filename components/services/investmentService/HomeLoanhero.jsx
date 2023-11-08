@@ -1,11 +1,9 @@
+import React from 'react'
 
-import Link from "next/link";
-import React from "react";
-
-const CallToAction = () => {
+const HomeLoanhero = () => {
   return (
-    <div></div>
-  );
-};
+    <div>HomeLoanhero</div>
+  )
+}
 
-export default CallToAction;
+export default HomeLoanhero
