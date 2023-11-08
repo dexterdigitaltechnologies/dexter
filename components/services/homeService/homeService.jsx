@@ -3,12 +3,12 @@ const services = [
   {
     iconSrc: "/images/unifyicon/icon4.svg",
     title: "Home Purchase Loans",
-    desc:"The key to your new home lies in our Home Purchase Loans. Whether you're a first-time homebuyer or an experienced one, we'll help you secure the right mortgage with favorable terms and rates.",
+    desc:"The key to your new home lies in our Home Purchase Loans. Whether youre a first-time homebuyer or an experienced one, well help you secure the right mortgage with favorable terms and rates.",
   },
   {
     iconSrc: "/images/unifyicon/icon20.svg",
     title: "Refinancing Solutions",
-    desc:"Optimize your mortgage with Unify Finance Refinancing Solutions. Lower your monthly payments, shorten your loan term, or access your home's equity for other financial needs.",
+    desc:"Optimize your mortgage with Unify Finance Refinancing Solutions. Lower your monthly payments, shorten your loan term, or access your homes equity for other financial needs.",
  
   },
   {

@@ -3,7 +3,7 @@ const services = [
   {
     iconSrc: "/images/unifyicon/icon4.svg",
     title: "Real Estate Investment Loans Melbourne",
-    desc:" Whether you're looking to acquire residential or commercial properties, our Real Estate Investment Loans in Melbourne provide the financial support to make your investments profitable.",
+    desc:" Whether you are looking to acquire residential or commercial properties, our Real Estate Investment Loans in Melbourne provide the financial support to make your investments profitable.",
   },
   {
     iconSrc: "/images/unifyicon/icon20.svg",
