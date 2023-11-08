@@ -63,12 +63,7 @@ const AboutUsV1 = () => {
               <div className="ps-xxl-5" data-aos="fade-left">
                 <h6 className="mb-30">Our Mission:</h6>
                 <p className="text-lg tx-dark">
-                  At Dexter Digital Technologies, our mission is clear: to help
-                  businesses, regardless of their size or industry, thrive in
-                  the digital landscape. We understand the unique challenges and
-                  opportunities that the digital era presents, and we are
-                  dedicated to providing our clients with the tools and
-                  strategies they need to succeed.
+                hi
                 </p>
                 {/* <div className="row">
                   <Counter />
@@ -81,12 +76,7 @@ const AboutUsV1 = () => {
               <div className="ps-xxl-5" data-aos="fade-left">
                 <h6 className="mb-30">Our Diverse Clientele:</h6>
                 <p className="text-lg tx-dark">
-                  Our journey has been marked by remarkable collaborations and
-                  achievements. We have had the privilege of working with a wide
-                  range of clients, from ambitious startups to globally
-                  recognized Fortune 500 companies. This diversity has enriched
-                  our experience and deepened our understanding of the
-                  intricacies of various industries.
+                hi
                 </p>
                 {/* <div className="row">
                   <Counter />
@@ -97,14 +87,14 @@ const AboutUsV1 = () => {
         </div>
         {/* /.container */}
 
-        <Image
+        <img
           src="/images/shape/shape_171.svg"
           alt="shape"
           className="lazy-img shapes shape-one"
           width={50}
           
         />
-        <Image
+        <img
           src="/images/shape/shape_172.svg"
           alt="shape"
           className="lazy-img shapes shape-two"
