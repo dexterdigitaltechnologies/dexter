@@ -1,3 +1,12 @@
+import React from 'react'
+
+const digitalmarketing = () => {
+  return (
+    <div>digital-marketing</div>
+  )
+}
+
+export default digitalmarketing
 // import Seo from "../../components/common/Seo";
 // import DefaulHeader from "../../components/header/DefaulHeader";
 // import MainFooter from "../../components/footer/Footer";

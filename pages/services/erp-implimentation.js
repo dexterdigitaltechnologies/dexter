@@ -1,3 +1,12 @@
+import React from 'react'
+
+const erpimplimentation = () => {
+  return (
+    <div>erp-implimentation</div>
+  )
+}
+
+export default erpimplimentation
 // import Seo from "../../components/common/Seo";
 // import DefaulHeader from "../../components/header/DefaulHeader";
 // import MainFooter from "../../components/footer/Footer";

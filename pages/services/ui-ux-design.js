@@ -1,3 +1,13 @@
+
+import React from 'react'
+
+const uidesign = () => {
+  return (
+    <div>ui-ux-design</div>
+  )
+}
+
+export default uidesign
 // import Seo from "../../components/common/Seo";
 // import DefaulHeader from "../../components/header/DefaulHeader";
 // import MainFooter from "../../components/footer/Footer";

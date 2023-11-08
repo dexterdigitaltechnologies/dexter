@@ -1,3 +1,12 @@
+import React from 'react'
+
+const mobiledevelopemnt = () => {
+  return (
+    <div>mobiledevelopemnt</div>
+  )
+}
+
+export default mobiledevelopemnt
 // import Seo from "../../components/common/Seo";
 // import DefaulHeader from "../../components/header/DefaulHeader";
 // import MainFooter from "../../components/footer/Footer";

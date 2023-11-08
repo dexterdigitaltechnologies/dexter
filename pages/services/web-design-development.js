@@ -1,3 +1,12 @@
+import React from 'react'
+
+const webdevelopment = () => {
+  return (
+    <div>web-design-development</div>
+  )
+}
+
+export default webdevelopment
 // import Seo from "../../components/common/Seo";
 // import DefaulHeader from "../../components/header/DefaulHeader";
 // import MainFooter from "../../components/footer/Footer";
